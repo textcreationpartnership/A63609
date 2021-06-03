@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to the eight chapter of the Representer's second part in the first dialogue between him and his lay-friend</title>
+            <author>Taylor, James, fl. 1687-1689.</author>
+         </titleStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63609</idno><idno type="EEBO-CITATION">13558580</idno>
+  <idno type="VID">100282</idno>
+  <idno type="EEBO-PROQUEST">2240849501</idno>
+  
+            <idno type="STC">Wing T283</idno>
+            <idno type="STC">ESTC R218867</idno>
+            <idno type="OCLC">13558580</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A63609)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100282)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 803:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to the eight chapter of the Representer's second part in the first dialogue between him and his lay-friend</title>
+                  <author>Taylor, James, fl. 1687-1689.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Rogers ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by James Taylor.  Cf. DNB.</note>
+                  <note>"Licensed March 1, 1686."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Gother, John, d. 1704. --  Papist misrepresented and represented.</term>
+               <term type="corporate_name">Catholic Church --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100282:1"/>
+            <p>AN ANSWER TO THE EIGHTH CHAPTER OF THE <hi>Representer's</hi> SECOND PART.</p>
+            <p>In the First DIALOGUE Between Him and His <hi>Lay-Friend.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>LICENSED,</p>
+                        <closer>
+                           <dateline>
+                              <date>March 1. 1686.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>William Rogers,</hi> at the <hi>Sun</hi> over-against St. <hi>Dun<g ref="char:EOLhyphen"/>stan</hi>'s Church, in <hi>Fleetstreet.</hi> MDCLXXXVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:100282:2"/>
+            <pb n="1" facs="tcp:100282:2"/>
+            <head>An <hi>ANSWER</hi> to the <hi>REPRESENTER</hi>'s Eighth Chapter, <hi>&amp;c.</hi>
+            </head>
+            <sp>
+               <speaker>Lay-friend,</speaker>
+               <p>COme Sir, without farther Ceremony, why does not your Church allow <hi>Vulgar Heads</hi> to read the Scriptures?</p>
+            </sp>
+            <sp>
+               <speaker>Representer.</speaker>
+               <p>Not because we fear there are any discoveries to be made of <hi>Errors</hi> and <hi>Follies</hi> in our Religion: For <hi>there's no College, Ʋniversity, Community or Place of Learning</hi> amongst us, <hi>but where the Scriptures are pub<g ref="char:EOLhyphen"/>lickly read and expounded.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>That is to say, so much is <hi>read publickly</hi> as is conveni<g ref="char:EOLhyphen"/>ent, and that which is read, is as conveniently <hi>expounded.</hi> Come, come, you are too bashful upon this occasion: E'ne say, that the Bible may be freely read by any Body in those your <hi>Places of Learning.</hi> 'Twixt Friends, indeed there's no such thing. But no matter for that; I will suppose it for once, and give you leave to make your best on't.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>I will also reserve your Supposition to some other time. At present, I say, that if we were <hi>Conscious</hi> of contradicting the Scriptures, Scholars of all Men should not be permitted by us to read the Scriptures; for 'tis more <hi>likely they should make this discovery in their reading the Bible, than the Vulgar. Are the Errors and Follies of Popery such, that of necessity a man must be a Blockhead to understand them?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>No, but they are such as I think a Blockhead may un<g ref="char:EOLhyphen"/>derstand them, if he be not an extraordinary Blockhead.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>A little good Manners, Friend, would not do amiss; are we such Blockheads with you then?</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>No, no, you have some Learned, and many shrew'd Heads amongst you. My meaning is, that it requires neither Learning nor Cunning, to find that your Religion, and that of the Bible, are in several things contrary to one another. But since you kindle so fast, why do you insinuate that none but <hi>Mechanicks and
+<pb n="2" facs="tcp:100282:3"/>Apronstrings</hi> make the discovery? Are we all of this Church, a company of Mechanicks and Apronstrings, or <hi>Blockheads</hi> at least?</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Not so fast; I meant only, that the Learned Men of <hi>our</hi> Communion could not make the discovery.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Then your meaning was little to the purpose. And now, since you have given the occasion, I must tell you, that we have very many <hi>Priests</hi> and <hi>Laymen,</hi> that can give as good an account of their Studies as any of the very best that you can bring. And I believe the World takes notice of it too.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>What a blustring, huffing Champion for the Church of <hi>England,</hi> is this Lay-friend of mine! why, sure thou takest thy self to be one of the Learned <hi>Laity,</hi> that thou talkest so bravely of the Church of <hi>England</hi> Learning.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>No truly, I am content to be put down amongst your Blockheads; only remember to write, that the <hi>Blockhead</hi> is not afraid of the <hi>Representer.</hi> Wherefore to go on, they are not <hi>Mechanicks</hi> and <hi>Apronstrings</hi> only, but as Learned Men as the World has any, who discover your Errors by the Scriptures: and it was a poor mean Fallacy of yours to dissemble it. We have Mechanicks amongst us, that have not only more hone<g ref="char:EOLhyphen"/>sty, but more wit than this comes to.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Thou art, I tell thee once again, a very quarrelsome, arro<g ref="char:EOLhyphen"/>gant Member of thy Church; but for all that, thou shalt be my Lay-friend still, and with all my heart conceit thy self as wise as <hi>Solomon;</hi> Only shew a little of thy Wit now, and come to the Business. Dost thou think that our Church would allow the Scriptures to so many Learned Men as we have, if our Religion were in any thing contrary to the Scriptures? Consider a little with thy self, how 'tis possible that these Learned Men should not see it, if it were so.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>How do you know that they do not see it? May they not see it, and yet be wise enough to say nothing of it?</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Very well! And <hi>is it probable then, that every man a<g ref="char:EOLhyphen"/>mongst the Papists, no sooner becomes a Scholar, but he turns Atheist?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>And is it probable then, that every man amongst the <hi>Pro<g ref="char:EOLhyphen"/>testants,</hi>
+                  <pb n="3" facs="tcp:100282:3"/>no sooner becomes a <hi>Scholar,</hi> but he turns <hi>Atheist?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>What an impertinent question was that? Did I ever say <hi>thus?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Then there is one impertinent question for another; for we never said <hi>so.</hi> But let me try whether I can ask a pertinent que<g ref="char:EOLhyphen"/>stion or not. Do not you think 'tis very plain that the Doctrines of your Church, which we oppose, are not contrary to the Scriptures? Answer me that.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>And so I will, if it be but to see what thou wilt make of it. I think 'tis plain enough.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Now 'tis more likely that Learned Men should discover what is to be discover'd in the Scriptures, than that Mecha<g ref="char:EOLhyphen"/>nicks and Apronstrings should.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>I have already said it; and to talk in thy strain, make thy best on't.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>I have but one thing more to add, and do you make the worst on't. You reckon that we must probably conclude your Learned Men to be Atheists, if we suppose that they discover your Religion to be contrary to the Scriptures, and will yet say nothing of it. And now I think you cannot but see that you also must <hi>probably</hi> suppose our Learned Men to be Atheists, if they discover that your Religion is <hi>not</hi> contrary to the Scriptures, and will yet bear the World in hand, that it is.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Hold, hold. But may be the case is not the same.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Then the case is alter'd, quoth <hi>Ployden.</hi> But you would do your Lay-friend no small Courtesie to shew him the diffe<g ref="char:EOLhyphen"/>rence. Pray, why should not our Learned men be as good at making Discoveries, as yours?</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Nay, if you will needs prove your Learned men to be Atheists, who can help it?</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Must they be <hi>Atheists</hi> then on one side or t'other? How<g ref="char:EOLhyphen"/>ever my question has by this time gain'd a little pertinence; and may deserve to be consider'd.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Hast thou forgot the Proverb? That <hi>a Fool may ask more Questions than a wise man can Answer?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>And yet I have answer'd yours; and that without saying,
+<pb n="4" facs="tcp:100282:4"/>either that your Learned Men are probably Atheists, or pro<g ref="char:EOLhyphen"/>bably not.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Nay, I confess, a question wisely avoided, shews more Discretion, than a question foolishly answer'd. But betwixt you and me, my question is not answer'd yet.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Say you so? Why, if you put me to it, it shall go hard but I will avoid it once more; and two wise avoidings, may for ought I know go for one wise Answer, according to another Proverb, <hi>That two Foils makes a Fall.</hi> Have you never heard of the Advice given to Pope <hi>Julius 3d,</hi> by some Bishops that sat at <hi>Bononia,</hi> in order to the support of the <hi>Roman See,</hi> as <hi>Vergerius</hi> has it?</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>It seems you have by your asking. Pray, remember that you are avoiding an answer to my question.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>I will avoid it as fast as I can. If you look into <hi>Consil. de stabil. Rem. Sede.</hi> you will go near to find this <hi>Advice</hi> given: That, <hi>as little of the Gospel might be read as was possible.</hi> I shall not trouble you with all that they say to this purpose, but make hast to their Reason for this Advice: <hi>In truth,</hi> say they, <hi>if one diligently considers it</hi> (as you know <hi>Scholars</hi> can do) <hi>and com<g ref="char:EOLhyphen"/>pares it with what is done in our Churches, he will find them very contrary to each other, and our very Doctrine not only to be diffe<g ref="char:EOLhyphen"/>rent from it, but inconsistent with it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>You do not intend to say, now at last—what do you mean by this Sir?</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>So, so. I shall be drawn into a snare, if I do not look better to my self. No Sir, I intended only to shew that that same que<g ref="char:EOLhyphen"/>stion which we have been so long upon, might as well have been spar'd. That's all.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>'Tis well that's all, Sir. And as we met, so now let us part Friends.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Nay, and if we be Friends, we'l think of <hi>Bononia</hi> no more, and so go on to the end of the Chapter.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>With all my heart Friend. And now I must tell ye, that <hi>I never met with any one, that left our Communion by reading and following the Word of God.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Right Sir. For 'tis not the Word of God, but the <hi>concep<g ref="char:EOLhyphen"/>tions
+<pb n="5" facs="tcp:100282:4"/>or imaginations</hi> that a man has upon reading the Word of God, that carries him away from you.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Now I protest thou begin'st to speak like a man of understanding.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>For instance, A man reads in 1 <hi>Cor.</hi> 11.26. <hi>As often as ye eat this bread, and drink this cup, ye do shew the Lords death till he come.</hi> And then there comes a certain <hi>conception</hi> or <hi>imagination</hi> into his head, that what is eaten in the Lords-Supper is <hi>Bread;</hi> and that there is a <hi>Cup</hi> to be drank of, as well as Bread to be eaten; and by that time that he has read some half a dozen places more to the same purpose, his imaginati<g ref="char:EOLhyphen"/>on works so strongly against <hi>Transubstantiation,</hi> and the <hi>half Communion,</hi> that next night he can hardly sleep for it.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Fiddle faddle, what a prating do'st thou make of one in<g ref="char:EOLhyphen"/>stance? Have I not said, that if the Vulgar be permitted to read the Bible, there will or may be <hi>so many different words of God, as there are heads</hi> amongst them?</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>And you said too, <hi>That the people benefit by the Scrip<g ref="char:EOLhyphen"/>tures, not by laying the Bible upon their heads, and so understan<g ref="char:EOLhyphen"/>ding it, but by the sense and meaning in which they understand it.</hi> For if that man we spake of before, had never done any thing with the Bible but laid it upon his <hi>head,</hi> and so had only <hi>stood under it,</hi> no harm had follow'd: But he must needs open it, and read the words, to come to the sense and meaning in which they are to be <hi>understood;</hi> and it was this that made all the mischief.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>And is it not a mischief, prithee, to have <hi>so many Heads, so many Bibles?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Take one Text for instance, and let it be, <hi>This is my Body.</hi> You say there must needs be about so many interpreta<g ref="char:EOLhyphen"/>tions of this place as there are heads in the vulgar amongst us. And now must I go with <hi>Pen, Ink and Paper,</hi> as you ad<g ref="char:EOLhyphen"/>vise, to take the sense of every vulgar head that comes to the Parish Church to which I belong. But what if I should find them to be all of a mind, and then carry the Parish harmo<g ref="char:EOLhyphen"/>ny upon this Text, to the Licenser, to be <hi>set forward</hi> with an
+<pb n="6" facs="tcp:100282:5"/>
+                  <hi>Imprimatur,</hi> as you were speaking? I fancy the Book would be a pretty Book, and sell very well.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Thou think'st this was wisely said now. Did I speak of a single Text, or of the whole Bible?</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>I cry you mercy, your meaning then was that they would not interpret the <hi>whole</hi> Bible alike. Pray do your Learned men do so? Here is the inconvenience then of letting vulgar heads have the Bible, that there will be so many <hi>vulgar heads,</hi> so many <hi>Bibles:</hi> But then there may be so many Bibles as you have <hi>learned heads</hi> amongst you, and there is no harm at all in that. But pray tell me, when our Saviour bad the <hi>Jews search the Scriptures,</hi> was he sensible, or not, of this incon<g ref="char:EOLhyphen"/>venience your Church is so much aware of? Was St. <hi>Peter</hi> to blame to commend the Christians of his days for <hi>taking heed to the word of Prophefie?</hi> Was St. <hi>Chrysostom</hi> a child, and the Fathers before him children, to exhort Christian people, dili<g ref="char:EOLhyphen"/>gently to read the Scriptures? Your Church certainly is very wise, to be wiser than the Fathers, than the Apostles, nay than our Saviour himself; and she has very great Authority if she can for the avoiding of <hi>inconveniences,</hi> countermand what God has commanded. But you will have all these things urg'd by a better hand, I guess, that will consider not only what you have said here, but your other Chapters also upon this argument.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>I am very glad on't, for to talk with thee, is but to lose time. When I see any sense written against my three Chapters, I will not fail to answer it.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Just as you reply'd to the Learned Answerer of the <hi>Papist Misrepresented and Represented,</hi> by dropping in effect the whole Controversie. Just as you answer'd the <hi>Protestant Pre<g ref="char:EOLhyphen"/>face</hi> to the <hi>wholesome advices,</hi> &amp;c. by cavilling at a digression or two, and saying never a word to the matter of <hi>Fact,</hi> which was the subject both of the <hi>Preface</hi> and the <hi>Book.</hi> And just as you have now reply'd to my <hi>Letter,</hi> in which I had not only fully consider'd all your Objections wherein I was particular<g ref="char:EOLhyphen"/>ly concern'd, but your whole Fourth Chapter it self, where you pretended that yours is the Catholick Church, and that
+<pb n="7" facs="tcp:100282:5"/>you have had a succession of Pastors, <hi>&amp;c.</hi> but I have not had one word offer'd for my satisfaction in these Points, tho' they are in themselves very material, and you were not a little concern'd to defend what you had said about them; Your <hi>Lay-friend</hi> would be asham'd of this shifting.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Thou perverse man, have I not intimated that it was to no purpose to go about to instruct thee? Prithee whose words were those, <hi>I desire to live no longer than I can, if not speak, yet love and admire the Church of</hi> England<hi>'s sense?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>They were my words; and so were these, <hi>I have vow'd to follow Truth and Charity where ever they lead me.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Is it not plain then, thou didst not <hi>know thy own mind?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>It is plain that I did; for I was then perswaded, and so I am still, that in following the Church of <hi>England,</hi> I <hi>follow Truth and Charity.</hi> Pray do you think that you shall ever be a <hi>Protestant</hi> again?</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>No friend, I am resolv'd to live and die a <hi>Roman</hi> Catholick.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Not right, or wrong, I hope. But at the same time that you are confident of being in the right way, you would not be asham'd to say, that you would <hi>follow Truth and Cha<g ref="char:EOLhyphen"/>rity,</hi> where ever they led you. I am as well assur'd that I am in the right, as you are confident that you are so. But if notwithstanding this assurance, I am under a pre<g ref="char:EOLhyphen"/>vailing resolution to follow <hi>Truth and Charity,</hi> though they should lead me out of the way wherein I now am; and you should with your confidence chance to be otherwise resolv'd, I will make bold to say, that in this respect the Lay-man is the better man, and the better Christian. But the very truth is, you were in pain for an excuse to avoid the answering of the first part of my Letter, and you thought you had found one.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Thy vanity is so intollerable that I wonder at my own patience to hear thee talk thus. Didst thou not desire without <hi>condition or reserve, to die, rather than move one step from whence thou standest?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>No, there was a plain reserve exprest, <hi>viz.</hi> that of <hi>Fol<g ref="char:EOLhyphen"/>lowing Truth and Charity;</hi> and this you have in effect confest
+<pb n="8" facs="tcp:100282:6"/>by saying that I came <hi>with vow'd Docility in one hand, and stur<g ref="char:EOLhyphen"/>dy presumption in the other.</hi> Presumption! of what I pray, but of this, that I am in the right way to Heaven? and the more sturdy my presumption of this was, the more charity it had been in you to have broke it by the force of your Reason, if you could. And now if you please, a word or two, whether <hi>Papists</hi> are not on the <hi>uncharitable side.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>Indeed we have your <hi>say-so for it, instead of a Proof.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>There is only your <hi>say-so</hi> that Proof is wanting; now why may not a Lay-man's <hi>say-so</hi> with Proof, weigh against a Representer's <hi>say-so</hi> without it? How should a man prove a Point of Doctrine upon your Authors, better than by such Te<g ref="char:EOLhyphen"/>stimonies out of them, as I produced in my Letter, <hi>pag.</hi> 7.? And for any thing you have yet said, and I believe can say, to clear your Party of damning all <hi>Protestants,</hi> that one Argu<g ref="char:EOLhyphen"/>ment alone, which I produced against you, <hi>p.</hi> 9. will remain an Invincible proof of <hi>Protestants</hi> Charity, and <hi>Papists</hi> want of it. Mark it Representer, Our Charity to you, and your want of it to us, has furnished your Party with an Argument to perswade silly people to be of your Church, because there's a possibility of Salvation there, by the Confession of both Parties: You have neither said that your men have not us'd this Argument, nor promis'd that they shall forbear it hereaf<g ref="char:EOLhyphen"/>ter; and yet with a boldness peculiar to your self, you would face us down, That <hi>Protestants come not an ace behind Papists in Ʋncharitableness.</hi> Take notice Sir, that you have offer'd never a Word to this Point, and I am now so well acquainted with your way, that I believe you never will.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>I wonder at thy Confidence, <hi>Lay-friend!</hi> Do not I say, That <hi>it is the common Opinion of Modern and Ancient Schoolmen, that Salvation is possible for such, as through Invincible Ignorance remain separate from the Church?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>When you have produc'd these Schoolmen, they shall be allow'd to speak for themselves, and for no body else; to be sure not for those that use the forementioned Argument, whether they be the Writers that I mentioned, or the present Talkers
+<pb n="9" facs="tcp:100282:6"/>that run up and down Town and Country, threatning the <hi>Vul<g ref="char:EOLhyphen"/>gar Heads</hi> amongst us, with unavoidable Damnation.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>I tell thee, of <hi>all those who pronounce so severely against Protestants,</hi> that 'tis <hi>against Protestants remaining such, as thou hast worded it,</hi> p. 8. that is, <hi>obstinately and pertinaciously re<g ref="char:EOLhyphen"/>maining such.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>I think it is now my turn to wonder at my own Pati<g ref="char:EOLhyphen"/>ence: What Confidence can be equal to this! Did I, or could I mean by Protestants <hi>remaining such, Protestants</hi> obstinately and pertinaciously continuing such? But by this time it is as evident as words can make any thing, that you and your Par<g ref="char:EOLhyphen"/>ty (if you rightly represent them) damn all <hi>Protestants re<g ref="char:EOLhyphen"/>maining such,</hi> without exception.</p>
+            </sp>
+            <sp>
+               <speaker>R.</speaker>
+               <p>No, we except those that can make the Excuse of <hi>Invin<g ref="char:EOLhyphen"/>cible Ignorance.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>That is to say, you except none at all, in as much as all Protestants remaining such, are, with you, <hi>obstinate</hi> and <hi>pertinacious;</hi> and I would know of you, Whether obstinate Hereticks can plead Invincible Ignorance? To deal plainly, I have found your <hi>Charity</hi> and your <hi>Sincerity</hi> to be much at one; but because, if it be possible, I would sift you to the bottom in this matter, pray will you think of giving me a plain, direct, and full answer to these Questions.</p>
+               <p n="1">1. What you mean by <hi>Invincible Ignorance,</hi> if you think there is such a thing?</p>
+               <p n="2">2. Whether it be possible for Protestants <hi>remaining such</hi> to the last, to dye in <hi>Invincible Ignorance,</hi> or whether the very being of a Protestant, does not, according to you, imply <hi>ob<g ref="char:EOLhyphen"/>stinate and pertinacious continuing in Error and Schism?</hi>
+               </p>
+               <p n="3">3. If it does imply <hi>obstinacy,</hi> whether it does not exclude the Plea of <hi>Invincible Ignorance?</hi>
+               </p>
+               <p n="4">4. If no <hi>Protestant,</hi> according to you, can be <hi>Invincibly igno<g ref="char:EOLhyphen"/>rant,</hi> what becomes of your Charity?</p>
+               <p n="5">5. If <hi>Protestants</hi> may live and die <hi>invincibly ignorant,</hi> what comes of your Argument; I mean that Argument mentio<g ref="char:EOLhyphen"/>ned in my <hi>Letter,</hi> which no provocation will make you take notice of?</p>
+               <pb n="10" facs="tcp:100282:7"/>
+               <p> Answer me these questions like a man that designs to serve Truth, and not a Party, and therefore like one that is not afraid to be under<g ref="char:EOLhyphen"/>stood. In the mean time I have just cause to say, that <hi>the two sorts of Po<g ref="char:EOLhyphen"/>pery</hi> I mention'd with respect to Damning or not Damning us, are as I now see, founded only upon your new pretence of that Charity for us which in reality there is nothing of. <hi>If the Papists have been made odi<g ref="char:EOLhyphen"/>ous these hundred years for their uncharitableness to Protestants,</hi> you are going on to make them <hi>odious</hi> still for the same <hi>uncharitableness;</hi> and the <hi>disguise</hi> of Charity which you have put on to <hi>amuse the people,</hi> tho' it was put on but t'other day, is <hi>worn off</hi> already, and the <hi>Representer</hi> with his new Popery appears as uncharitable as the maintainers of the <hi>Old.</hi>
+               </p>
+               <p>As to your Reflection upon my <hi>Friends,</hi> by whom I suppose, you mean the honest and Learned Clergy of this Church, <hi>That they are put to a hard shift to talk of New Popery;</hi> it is easie to say, that if you had not been put to a hard shift to defend the <hi>Old,</hi> there had been no occa<g ref="char:EOLhyphen"/>sion given to talk of the <hi>New.</hi> Methinks you should be afraid to men<g ref="char:EOLhyphen"/>tion the difference betwixt the Old and the New, when you are so in<g ref="char:EOLhyphen"/>debted to us about the Defence of the Bishop of <hi>Meaux</hi>'s Exposition, and the first part of the <hi>Papist Mispresented and Represented.</hi> We con<g ref="char:EOLhyphen"/>fess that in respect of your practices there is no occasion for this di<g ref="char:EOLhyphen"/>stinction between <hi>Old and New Popery,</hi> but in respect of your present pretences, there is. For he that looks upon the false Colours that you have lately laid upon your Cause, would either believe that there's a change made amongst you, tho' we know there is none, and some lit<g ref="char:EOLhyphen"/>tle Reformation, tho' indeed nothing is mended; or else that we had charg'd you falsely all along; which no body can believe that either understands your practices abroad, or can read your established Offi<g ref="char:EOLhyphen"/>ces, or has capacity to understand how the Controversies were stated between your Ancestors and ours at home.</p>
+               <p>Now for what remains, pray when you write next, have a care of supposing <hi>a good opinion of the Papists to be a part of my Religion,</hi> unless you confess at the same time that it is part of my Religion to have <hi>no good opinion of Popery.</hi> As for the occasion of my requiring an <hi>Infallible assurance</hi> in the place to which you refer, I confess a great deal less will serve my turn; only I talked to you as men sometimes do to Artists, in their own Terms. But for that Reflection, that I have but a <hi>Fallible per<g ref="char:EOLhyphen"/>swasion for my Religion,</hi> I will compare the Grounds of my Perswasion with the Grounds of yours when you please. In a word, if you were to convert <hi>Heathens</hi> upon any other Grounds than those that support the Faith of <hi>Protestants,</hi> you would find it as difficult a matter to make Converts to <hi>Christianity,</hi> as you find it to convert us to <hi>Popery.</hi> And so farewell till we meet again, which I guess will not be in hast, if you can help it.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
